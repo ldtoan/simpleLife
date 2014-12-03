@@ -1,0 +1,414 @@
+women,bow ties:
+  - 97
+women,gloves:
+  - 108
+women,hair accessories:
+  - 96
+women,hats:
+  - 103
+women,oblong scarves:
+  - 105
+women,shawls:
+  - 149
+women,sleeves:
+  - 119
+women,square scarves:
+  - 120
+women,stoles:
+  - 105
+women,suspenders:
+  - 119
+women,tech gadget :
+  - 111
+women,ties:
+  - 120
+women,umbrellas:
+  - 110
+women,blazers:
+  - 52
+women,cloaks:
+  - 57
+women,coats:
+  - 43
+women,down jackets:
+  - 47
+women,full-length jackets:
+  - 47
+women,jackets:
+  - 47
+women,mid-length jackets:
+  - 47
+women,raincoats:
+  - 57
+women,fleece outfits:
+  - 157
+women,outfits:
+  - 154
+women,women's suits:
+  - 154
+women,denim outerwear:
+  - 51
+women,denim pants:
+  - 17
+women,denim shirts:
+  - 10
+women,denim skirts:
+  - 15
+women,knee-length dresses:
+  - 147
+women,long dresses:
+  - 147
+women,short dresses:
+  - 148
+women,ankle boots:
+  - 76
+women,ballet flats:
+  - 64
+women,boots:
+  - 68
+women,espadrilles:
+  - 66
+women,flip flops & clog sandals:
+  - 58
+women,high-tops:
+  - 59
+women,laced shoes:
+  - 67
+women,low-tops:
+  - 67
+women,moccasins:
+  - 64
+women,open-toe mule:
+  - 61
+women,pumps:
+  - 60
+women,sandals:
+  - 58
+women,shoe boots:
+  - 72
+women,slippers:
+  - 122
+women,across-body bags:
+  - 78
+women,backpacks & fanny packs:
+  - 84
+women,handbags:
+  - 78
+women,shoulder bags:
+  - 82
+women,work bags:
+  - 85
+women,candelabra:
+  - 124
+women,bracelets:
+  - 93
+women,brooches:
+  - 119
+women,cuff links:
+  - 97
+women,earring:
+  - 91
+women,earrings:
+  - 91
+women,jewelry sets:
+  - 97
+women,necklaces:
+  - 90
+women,pendants:
+  - 97
+women,rings:
+  - 92
+women,baby tote bags:
+  - 77
+women,beauty cases:
+  - 85
+women,garment bags:
+  - 85
+women,suitcases:
+  - 154
+women,travel & duffel bag:
+  - 349
+women,wheeled luggage:
+  - 85
+women,pant overalls:
+  - 37
+women,short pant overalls:
+  - 37
+women,skirt overalls:
+  - 15
+women,3/4-length shorts:
+  - 18
+women,bermudas:
+  - 17
+women,casual pants:
+  - 17
+women,dress pants:
+  - 17
+women,harem pants:
+  - 17
+women,leggings:
+  - 113
+women,shorts:
+  - 18
+women,sweat pants:
+  - 34
+women,sweat shorts:
+  - 17
+women,blouses:
+  - 10
+women,kaftans:
+  - 133
+women,shirt:
+  - 2
+women,3/4 length skirts:
+  - 15
+women,knee length skirts:
+  - 15
+women,long skirts:
+  - 15
+women,mini skirts:
+  - 15
+women,belts:
+  - 109
+women,document holders:
+  - 118
+women,key rings:
+  - 92
+women,organizer binders:
+  - 89
+women,wallets:
+  - 86
+women,cardigans:
+  - 7
+women,sweaters:
+  - 6
+women,turtlenecks:
+  - 14
+women,twin sets:
+  - 14
+women,wrap-arounds:
+  - 14
+women,bathrobes:
+  - 128
+women,beach pants:
+  - 132
+women,bikinis:
+  - 132
+women,brief trunks:
+  - 132
+women,cover-ups:
+  - 132
+women,one-piece suits:
+  - 36
+women,racing suits:
+  - 154
+women,sarongs:
+  - 134
+women,polo shirts:
+  - 11
+women,shrugs:
+  - 14
+women,sweatshirts:
+  - 9
+women,tops:
+  - 1
+women,t-shirts:
+  - 2
+women,tube tops:
+  - 14
+women,bodysuits:
+  - 154
+women,boyshorts:
+  - 131
+women,bras:
+  - 124
+women,briefs:
+  - 121
+women,bustiers:
+  - 130
+women,dressing gowns:
+  - 127
+women,garter belts:
+  - 109
+women,g-strings:
+  - 92
+women,knit underwear:
+  - 6
+women,merrywidows:
+  - 130
+women,nightgowns:
+  - 127
+women,sleepwear:
+  - 126
+women,slips:
+  - 122
+women,tank tops:
+  - 131
+women,undershirts:
+  - 122
+women,underwear sets:
+  - 125
+women,wrist watches:
+  - 98
+men,belt buckles:
+  - 247
+men,bow ties:
+  - 249
+men,gloves:
+  - 244
+men,hair accessories:
+  - 230
+men,hats:
+  - 240
+men,oblong scarves:
+  - 243
+men,tech gadget :
+  - 251
+men,ties:
+  - 249
+men,umbrellas:
+  - 232
+men,blazers:
+  - 200
+men,cloaks:
+  - 263
+men,coats:
+  - 209
+men,down jackets:
+  - 195
+men,full-length jackets:
+  - 210
+men,jackets:
+  - 197
+men,mid-length jackets:
+  - 210
+men,raincoats:
+  - 209
+men,fleece outfits:
+  - 263
+men,denim outerwear:
+  - 199
+men,denim pants:
+  - 178
+men,denim shirts:
+  - 170
+men,ankle boots:
+  - 215
+men,boots:
+  - 215
+men,espadrilles:
+  - 363
+men,flip flops & clog sandals:
+  - 212
+men,high-tops:
+  - 213
+men,laced shoes:
+  - 218
+men,low-tops:
+  - 218
+men,moccasins:
+  - 214
+men,open-toe mule:
+  - 218
+men,sandals:
+  - 212
+men,slippers:
+  - 218
+men,across-body bags:
+  - 226
+men,backpacks & fanny packs:
+  - 223
+men,handbags:
+  - 221
+men,shoulder bags:
+  - 219
+men,work bags:
+  - 224
+men,bracelets:
+  - 228
+men,earring:
+  - 230
+men,earrings:
+  - 230
+men,necklaces:
+  - 227
+men,rings:
+  - 229
+men,baby tote bags:
+  - 221
+men,garment bags:
+  - 226
+men,suitcases:
+  - 224
+men,travel & duffel bag:
+  - 364
+men,wheeled luggage:
+  - 364
+men,suit:
+  - 263
+men,vests:
+  - 207
+men,pant overalls:
+  - 263
+men,bermudas:
+  - 188
+men,casual pants:
+  - 190
+men,dress pants:
+  - 191
+men,shorts:
+  - 188
+men,sweat pants:
+  - 193
+men,sweat shorts:
+  - 193
+men,shirt:
+  - 170
+men,skirts:
+  - 194
+men,belts:
+  - 247
+men,checkbook holders:
+  - 234
+men,document holders:
+  - 234
+men,key rings:
+  - 234
+men,organizer binders:
+  - 234
+men,wallets:
+  - 233
+men,cardigans:
+  - 174
+men,sweaters:
+  - 173
+men,turtlenecks:
+  - 177
+men,bathrobes:
+  - 258
+men,beach pants:
+  - 260
+men,brief trunks:
+  - 254
+men,swimming trunks:
+  - 260
+men,towels:
+  - 261
+men,polo shirts:
+  - 168
+men,sweatshirts:
+  - 172
+men,t-shirts:
+  - 166
+men,boxers:
+  - 121
+men,briefs:
+  - 255
+men,sleepwear:
+  - 126
+men,tank tops:
+  - 131
+men,undershirts:
+  - 170
+men,wrist watches:
+  - 231

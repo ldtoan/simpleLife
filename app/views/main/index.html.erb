@@ -1,0 +1,512 @@
+
+
+
+
+    <header id="header">
+        <div class="top-bar">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6 col-xs-8">
+                       <div class="social">
+                            <ul class="social-share">
+                                <li><a href="#"></i></a></li>
+                                <li><a href="#"></i></a></li>
+                            </ul>
+                       </div>
+                    </div>
+                </div>
+            </div><!--/.container-->
+        </div><!--/.top-bar-->
+
+        <nav class="navbar navbar-inverse" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.html"><img src="assets/logo.jpg" alt="logo"></a>
+                </div>
+                <div class="top-number"><p><h6>&nbsp;<a href="#">simpleLife</a>..bay cùng cuộc sống !</p></h6></div>
+                <div class="collapse navbar-collapse navbar-right">
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="index.html">Trang Chủ</a></li>
+                        <li><%= link_to "Âm Nhạc", musics_path %></li>
+                        <li><a href="services.html">Kiến Thức-Cuộc Sống</a></li>
+                        <li><a href="portfolio.html">Giải Trí-Tổng Hợp</a></li>
+                    </ul>
+                </div>
+            </div><!--/.container-->
+        </nav><!--/nav-->
+
+    </header><!--/header-->
+
+    <section id="main-slider" class="no-margin">
+        <div class="carousel slide">
+            <ol class="carousel-indicators">
+                <li data-target="#main-slider" data-slide-to="0" class="active"></li>
+                <li data-target="#main-slider" data-slide-to="1"></li>
+                <li data-target="#main-slider" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="item active" style="background-image: url(assets/slider/bg1.jpg)">
+                    <div class="container">
+                        <div class="row slide-margin">
+                            <div class="col-sm-6">
+                                <div class="carousel-content">
+                                    <h3 class="animation animated-item-1">Chẳng ngôn ngữ nào êm dịu và trầm lắng cho bằng ngôn ngữ của thi ca</h3>
+                                    <h3 class="animation animated-item-2">Chẳng âm điệu nào thiết tha cho bằng cung thanh trầm của khúc nhạc...</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div><!--/.item-->
+                <div class="item" style="background-image: url(assets/slider/bg2.jpg)">
+                    <div class="container">
+                        <div class="row slide-margin">
+                            <div class="col-sm-6">
+                                <div class="carousel-content">
+                                    <h2 class="animation animated-item-1">Bạn cảm thấy mệt mỏi sau những giờ làm việc, học tập căng thẳng.</h2>
+                                    <h2 class="animation animated-item-2">Hãy ghé vào đây để có những phút giây thư thả...</h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div><!--/.item-->
+                <div class="item" style="background-image: url(assets/slider/bg3.jpg)">
+                    <div class="container">
+                        <div class="row slide-margin">
+                            <div class="col-sm-6">
+                                <div class="carousel-content">
+                                    <h2 class="animation animated-item-1">Nơi đây chia sẽ những kiến thức tổng hợp.</h2>
+                                    <h2 class="animation animated-item-2">..cần thiết trong công việc và cuộc sống.</h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div><!--/.item-->
+            </div><!--/.carousel-inner-->
+        </div><!--/.carousel-->
+    </section><!--/#main-slider-->
+
+    <section id="feature" >
+        <div class="container">
+           <div class="fadeInDown">
+                <h2><%= link_to "Âm Nhạc", musics_path %></h2>
+                <p class="lead">Chẳng ngôn ngữ nào êm dịu và trầm lắng cho bằng ngôn ngữ của thi ca<br> Chẳng âm điệu nào thiết tha cho bằng cung thanh trầm của khúc nhạc...<br>Âm nhạc luôn luôn là nguồn hạnh phúc cho tất cả mọi người sống trên trái đất. Không có âm nhạc thế giới thực sự sẽ rất buồn tẻ. Có âm nhạc trong chuyển động của gió, biển, cũng như cây cối; có âm nhạc trong tiếng hót của các loài chim muông... Âm nhạc có ý nghĩa vô cùng quan trọng đối với hạnh phúc của con người. Âm nhạc xua tan đi nỗi sầu khổ của con người và rót đầy tâm tưởng chúng ta niềm vui sướng hân hoan. Bật những bài nhạc yêu thích và thực sự lắng nghe mà không làm điều gì khác, chúng ta thấy cuộc đời này thật có giá trị biết bao! (Thái Hà)</p>
+            </div>
+
+            <div class="row">
+                <div class="features">
+                    <div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <img class="recent-work-inner" style="height:100px" src="assets/music/music_icon.jpeg">
+                            <h2><a href="#">Nhạc Trẻ</a></h2>
+                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <img class="recent-work-inner" style="height:100px" src="assets/music/music_icon.jpeg">
+                            <h2><a href="#">Nhạc Quê Hương</a></h2>
+                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <img class="recent-work-inner" style="height:100px" src="assets/music/music_icon.jpeg">
+                            <h2><a href="#">Nhạc Trữ Tình</a></h2>
+                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <img class="recent-work-inner" style="height:100px" src="assets/music/music_icon.jpeg">
+                            <h2><a href="#">Nhạc Âu Mỹ</a></h2>
+                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <img class="recent-work-inner" style="height:100px" src="assets/music/music_icon.jpeg">
+                            <h2><a href="#">Nhạc Hoa</a></h2>
+                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <img class="recent-work-inner" style="height:100px" src="assets/music/music_icon.jpeg">
+                            <h2><a href="#">Nhạc Hàn</a></h2>
+                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+                    <div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <img class="recent-work-inner" style="height:100px" src="assets/music/music_icon.jpeg">
+                            <h2><a href="#">Nhạc Dance</a></h2>
+                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+                    <div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                           <img class="recent-work-inner" style="height:100px" src="assets/music/music_icon.jpeg">
+                            <h2><a href="#">Nhạc Hòa Tấu</a></h2>
+                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+                </div><!--/.services-->
+            </div><!--/.row-->
+        </div><!--/.container-->
+    </section><!--/#feature-->
+
+    <section id="recent-works">
+        <div class="container">
+            <div class="center wow fadeInDown">
+                <h2><a href="#">Thư Giãn Online</a></h2>
+                <p class="lead">
+                Bạn cảm thấy mệt mỏi sau những giờ làm việc, học tập căng thẳng.<br>Hãy ghé vào đây để có những phút giây thư thả...</p>
+            </div>
+
+            <div class="row">
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="recent-work-inner" style="height:179px" src="assets/portfolio/recent/minigame.png" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">Game Mini</a> </h3>
+                                <p>Game kinh điển có thao tác đơn giản nhưng hấp dẫn mãi đem đến cho người chơi trải nghiệm thú vị khó quên...</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="recent-work-inner" style="height:179px" src="assets/portfolio/recent/handmade.jpg" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">Handmade</a></h3>
+                                <p>Cùng trao đổi, học hỏi cách làm các sản phẩm bằng tay như là: hộp bút, giá sách, thiệp,..</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="recent-work-inner" style="height:179px" src="assets/portfolio/recent/tieuthuyet.jpg" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">Đọc Truyện</a></h3>
+                                <p>Những truyện ngắn mới nhất, hấp dẫn nhất có thể tìm thấy ở đây.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="recent-work-inner" style="height:179px" src="assets/portfolio/recent/dovui.jpeg" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">Đố Vui</a></h3>
+                                <p>Nơi gặp gỡ của những người hài hước, trí tuệ,..</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="recent-work-inner" style="height:179px" style="height:179px;width:250px" src="assets/portfolio/recent/anhdep.jpg" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">Ảnh đẹp</a></h3>
+                                <p>Nơi bạn có thể trở lại chính mình trong từng hình ảnh đẹp trong từng dòng cảm xúc về những điều xảy ra xung quanh</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="recent-work-inner" style="height:179px" src="assets/portfolio/recent/dulich.jpg" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">Du lịch</a></h3>
+                                <p>Cùng chia sẻ, thảo luận về du lịch Việt Nam và thế giới</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="recent-work-inner" style="height:179px" src="assets/portfolio/recent/amthuc.jpg" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">Ẩm thực</a></h3>
+                                <p>Các món ăn ngon, địa chỉ quán,..có đầy đủ trong đây</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="recent-work-inner" style="height:179px" src="assets/portfolio/recent/thethao.jpg" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">Thể thao</a></h3>
+                                <p>Nơi vui chơi giải trí, thảo luận của giới mộ điệu thể thao !</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!--/.row-->
+        </div><!--/.container-->
+    </section><!--/#recent-works-->
+
+    <section id="services" class="service-item">
+     <div class="container">
+            <div class="center wow fadeInDown">
+                <h2><a href="#">Kiến Thức Và Cuộc Sống</a></h2>
+                <p class="lead">Kiến thức tổng hợp cần thiết trong công việc và cuộc sống.</p>
+            </div>
+
+            <div class="row">
+
+                <a href="/english/index">
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-left">
+                            <img class="recent-work-inner" style="height:100px" src="assets/services/englishclub.png">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">CLB Tiếng Anh</h3>
+                        </div>
+                    </div>
+                </div>
+                </a>
+
+                <a href="javascript:void()">
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-left">
+                            <img class="recent-work-inner" style="height:100px" src="assets/services/japan_clb.jpeg">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">CLB Tiếng Nhật</h3>
+
+                        </div>
+                    </div>
+                </div>
+                </a>
+               <a href="javascript:void()">
+               <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-left">
+                            <img class="recent-work-inner" style="height:100px" src="assets/services/van_tho.png">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">Thơ, Văn</h3>
+
+                        </div>
+                    </div>
+                </div>
+                </a>
+                <a href="javascript:void()">
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-left">
+                            <img class="recent-work-inner" style="height:100px" src="assets/services/health.jpg">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">Sức Khỏe Của Bạn</h3>
+
+                        </div>
+                    </div>
+                </div>
+                </a>
+                <a href="javascript:void()">
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-left">
+                            <img class="recent-work-inner" style="height:100px" src="assets/services/computer_care.png">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">Bệnh Viện Máy Tính</h3>
+
+                        </div>
+                    </div>
+                </div>
+                </a>
+                <a href="javascript:void()">
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-left">
+                            <img class="recent-work-inner" style="height:100px" src="assets/services/muaban.jpeg">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">Mua Bán, Quảng Cáo</h3>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </div><!--/.row-->
+        </div><!--/.container-->
+    </section><!--/#services-->
+
+
+
+    <section id="content">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 wow fadeInDown">
+                   <div class="tab-wrap">
+                        <div class="media">
+                            <div class="parrent pull-left">
+                                <ul class="nav nav-tabs nav-stacked">
+                                    <li class="active"><a href="#tab3" data-toggle="tab" class="tehnical">Thông báo mới nhất</a></li>
+                                    <li class=""><a href="#tab1" data-toggle="tab" class="analistic-01">Thành viên tích cực nhất</a></li>
+                                    <li class=""><a href="#tab2" data-toggle="tab" class="analistic-02">Thành viên mới nhất</a></li>
+                                </ul>
+                            </div>
+
+                            <div class="parrent media-body">
+                                <div class="tab-content">
+                                    <div class="tab-pane fade" id="tab1">
+                                        <div class="media">
+                                           <div class="pull-left">
+                                                <img class="img-responsive" src="assets/tab2.png">
+                                            </div>
+                                            <div class="media-body">
+                                                 <h2>Thông tin</h2>
+                                                 <p>Thông tinThông tinThông tinThông tinThông tinThông tinThông tinThông tin</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                     <div class="tab-pane fade" id="tab2">
+                                        <div class="media">
+                                           <div class="pull-left">
+                                                <img class="img-responsive" src="assets/tab1.png">
+                                            </div>
+                                            <div class="media-body">
+                                                 <h2>Thông tin</h2>
+                                                 <p>Thông tinThông tinThông tinThông tinThông tinThông tinThông tinThông tinThông tinThông tinThông tinThông tinThông tinThông tinThông tinThông tinThông tinThông tin.
+                                                 </p>
+                                            </div>
+                                        </div>
+                                     </div>
+
+                                     <div class="tab-pane fade active in" id="tab3">
+                                        <p>Thông báo mới nhấtThông báo mới nhấtThông báo mới nhấtThông báo mới nhấtThông báo mới nhấtThông báo mới nhấtThông báo mới nhấtThông báo mới nhấtThông báo mới nhấtThông báo mới nhấtThông báo mới nhấtThông báo mới nhấtThông báo mới nhấtThông báo mới nhấtThông báo mới nhất.</p>
+                                     </div>
+                                </div> <!--/.tab-content-->
+                            </div> <!--/.media-body-->
+                        </div> <!--/.media-->
+                    </div><!--/.tab-wrap-->
+                </div><!--/.col-sm-6-->
+
+            </div><!--/.row-->
+        </div><!--/.container-->
+    </section><!--/#content-->
+
+    <section id="conatcat-info">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8">
+                    <div class="media contact-info wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="pull-left">
+                            <i class="fa fa-phone"></i>
+                        </div>
+                        <div class="top-number">
+                            <h4>Business contact: <a href="#">0939.597.920</a> Mr.Thanh</h4>
+                            <p><h4>Những góp ý, xây dựng, phát triển website: <a href="#">simpleLife@gmail.com</a></h4></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><!--/.container-->
+    </section><!--/#conatcat-info-->
+
+    <section id="bottom">
+        <div class="container wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+            <div class="row">
+                <div class="col-md-4 col-sm-6">
+                    <div class="widget">
+                        <h3>ÂM NHẠC</h3>
+                        <ul>
+                            <li><a href="#">Nhạc Trẻ</a></li>
+                            <li><a href="#">Nhạc Quê Hương</a></li>
+                            <li><a href="#">Nhạc Trữ Tình</a></li>
+                            <li><a href="#">Nhạc Âu Mỹ</a></li>
+                            <li><a href="#">Nhạc Hoa</a></li>
+                            <li><a href="#">Nhạc Hàn</a></li>
+                            <li><a href="#">Nhạc Dance</a></li>
+                            <li><a href="#">Nhạc Hòa Tấu</a></li>
+                        </ul>
+                    </div>
+                </div><!--/.col-md-3-->
+
+                <div class="col-md-4 col-sm-6">
+                    <div class="widget">
+                        <h3>Thư Giãn Online</h3>
+                        <ul>
+                            <li><a href="#">Game Mini</a></li>
+                            <li><a href="#">Handmade</a></li>
+                            <li><a href="#">Đọc Truyện</a></li>
+                            <li><a href="#">Đố Vui</a></li>
+                            <li><a href="#">Ảnh Đẹp</a></li>
+                            <li><a href="#">Du Lịch</a></li>
+                            <li><a href="#">Ẩm Thực</a></li>
+                            <li><a href="#">Thể Thao</a></li>
+                        </ul>
+                    </div>
+                </div><!--/.col-md-3-->
+
+                <div class="col-md-4 col-sm-6">
+                    <div class="widget">
+                        <h3>Kiến Thức Và Cuộc Sống</h3>
+                        <ul>
+                            <li><a href="#">CLB Tiếng Anh</a></li>
+                            <li><a href="#">CLB Tiếng Nhật</a></li>
+                            <li><a href="#">CLB Thơ, Văn</a></li>
+                            <li><a href="#">Sức Khỏe Của Bạn</a></li>
+                            <li><a href="#">Bệnh Viện Máy Tính</a></li>
+                            <li><a href="#">Mua Bán, Quảng Cáo</a></li>
+                            <li><a href="#">Thông tin simpleLife</a></li>
+                            <li><a href="#">Điều khoản sử dụng</a></li>
+
+                        </ul>
+                    </div>
+                </div><!--/.col-md-3-->
+            </div>
+        </div>
+    </section><!--/#bottom-->
+
+    <footer id="footer" class="midnight-blue">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    &copy; 2014 <a target="_blank" href="#" title="Free Twitter Bootstrap">simpleLife</a>. All Rights Reserved.
+                </div>
+                <div class="col-sm-6">
+                    <ul class="pull-right">
+                        <li><a href="#">Trang Chủ</a></li>
+                        <li><a href="#">Âm Nhạc</a></li>
+                        <li><a href="#">Kiến Thức-Cuộc Sống</a></li>
+                        <li><a href="#">Giải Trí-Tổng Hợp</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer><!--/#footer-->

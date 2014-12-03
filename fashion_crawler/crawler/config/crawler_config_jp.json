@@ -1,0 +1,74 @@
+{
+  "data":
+    [
+      [
+        { "site_id" : 1, "site_name" : "ShopStyle", "url" : "http://www.shopstyle.com/", "start_url" : "http://www.shopstyle.co.uk/page/SiteMap", "task" : "ShopStyleProcessAtMainPage" }
+      ],
+      [
+        { "site_id" : 3, "site_name" : "Lyst", "url" : "http://www.lyst.com/", "start_url" : "http://www.lyst.com/", "task" : "LystProcessAtMainPage" }
+      ],
+      [
+        { "site_id" : 4, "site_name" : "SHOPBOP", "url" : "http://www.shopbop.com/", "start_url" : "http://www.shopbop.com/", "task" : "SHOPBOPProcessAtMainPage" }
+      ],
+      [
+        { "site_id" : 5, "site_name" : "Bloomingdales", "url" : "http://www1.bloomingdales.com", "start_url" : "http://www1.bloomingdales.com/index?cm_sp=NAVIGATION-_-TOP_NAV-_-TOP_BLOOMIES_ICON", "task" : "BloomingdalesProcessAtMainPage" }
+      ],
+      [
+        { "site_id" : 6, "site_name" : "ShopStyleCanada", "url" : "http://www.shopstyle.ca/", "start_url" : "http://www.shopstyle.ca/page/SiteMap", "task" : "ShopStyleCanadaProcessAtMainPage" }
+      ],
+      [
+        { "site_id" : 7, "site_name" : "ShopStyleAustralia", "url" : "http://www.shopstyle.com.au/", "start_url" : "http://www.shopstyle.com.au/page/SiteMap", "task" : "ShopStyleAustraliaProcessAtMainPage" }
+      ],
+      [
+        { "site_id" : 8, "site_name" : "Stylebop", "url" : "http://www.stylebop.com", "start_url" : "http://www.stylebop.com/jp/", "task" : "StylebopProcessAtMainPage" }
+      ],
+      [
+        { "site_id" : 9, "site_name" : "Karmaloop", "url" : "http://www.karmaloop.com/", "start_url" : "http://www.karmaloop.com/", "task" : "KarmaloopProcessAtMainPage" }
+      ],
+      [
+        { "site_id" : 10, "site_name" : "Farfetch", "url" : "http://www.farfetch.com/", "start_url" : "http://www.farfetch.com/jp/", "task" : "FarfetchProcessAtMainPage" }
+      ],
+      [
+        { "site_id" : 13, "site_name" : "NetAPorter", "url" : "http://www.net-a-porter.com", "start_url" : "http://www.net-a-porter.com", "task" : "NetAPorterProcessAtMainPage" }
+      ],
+      [
+        { "site_id" : 22, "site_name" : "Asosus", "url" : "http://us.asos.com", "start_url" : "http://us.asos.com", "task" : "AsosusProcessAtMainPage" }
+      ],
+      [
+        { "site_id" : 15, "site_name" : "Romwe", "url" : "http://www.romwe.com", "start_url" : "http://www.romwe.com", "task" : "RomweProcessAtMainPage" }
+      ],
+      [
+        { "site_id" : 16, "site_name" : "Bergdorfgoodman", "url" : "http://www.bergdorfgoodman.com", "start_url" : "http://www.bergdorfgoodman.com", "task" : "BergdorfgoodmanProcessAtMainPage" }
+      ],
+      [
+        { "site_id" : 24, "site_name" : "Mrporter", "url" : "http://www.mrporter.com", "start_url" : "http://www.mrporter.com", "task" : "MrporterProcessAtMainPage" }
+      ],
+      [
+        { "site_id" : 17, "site_name" : "Saksfifthavenue", "url" : "http://www.saksfifthavenue.com", "start_url" : "http://www.saksfifthavenue.com", "task" : "SaksfifthavenueProcessAtMainPage" }
+      ],
+      [
+        { "site_id" : 21, "site_name" : "Psyche", "url" : "http://psyche.co.uk", "start_url" : "http://psyche.co.uk", "task" : "PsycheProcessAtMainPage" }
+      ],
+      [
+        { "site_id" : 20, "site_name" : "Coggles", "url" : "http://www.coggles.com", "start_url" : "http://www.coggles.com/home.dept", "task" : "CogglesProcessAtMainPage" }
+      ],
+      [
+        { "site_id" : 26, "site_name" : "Yoox", "url" : "http://www.yoox.com/us/women", "start_url" : "http://www.yoox.com/us/women", "task" : "YooxProcessAtMainPage" }
+      ],
+      [
+        { "site_id" : 25, "site_name" : "Matchesfashion", "url" : "http://www.matchesfashion.com", "start_url" : "http://www.matchesfashion.com/mens/shop", "task" : "MatchesfashionProcessAtMainPage" }
+      ],
+      [
+        { "site_id" : 28, "site_name" : "Office", "url" : "http://www.office.co.uk/", "start_url" : "http://www.office.co.uk/", "task" : "OfficeProcessAtMainPage" }
+      ],
+      [
+        { "site_id" : 27, "site_name" : "LuisaViaRoma", "url" : "http://www.luisaviaroma.com/", "start_url" : "http://www.luisaviaroma.com/", "task" : "LuisaViaRomaProcessAtMainPage" }
+      ],
+      [
+        { "site_id" : 32, "site_name" : "NeimanMarcus", "url" : "http://www.neimanmarcus.com/", "start_url" : "http://www.neimanmarcus.com/", "task" : "NeimanMarcusProcessAtMainPage" }
+      ],
+      [
+        { "site_id" : 11, "site_name" : "Revolveclothing", "url" : "http://www.revolveclothing.com", "start_url" : "http://www.revolveclothing.com", "task" : "RevolveclothingProcessAtMainPage" }
+      ]
+    ]
+}

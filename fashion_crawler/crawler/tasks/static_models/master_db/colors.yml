@@ -1,0 +1,465 @@
+---
+- - '1'
+  - blue
+  - ブルー
+- - '2'
+  - turquoise
+  - 青緑
+- - '3'
+  - red
+  - レッド
+- - '4'
+  - reddish brown
+  - 赤茶色
+- - '5'
+  - madder
+  - あかね色
+- - '6'
+  - neutral green
+  - うぐいす色
+- - '7'
+  - emerald green
+  - エメラルドグリーン
+- - '8'
+  - orange
+  - オレンジ
+- - '9'
+  - yellow
+  - イエロー
+- - '10'
+  - light green
+  - 黄緑
+- - '11'
+  - chestnut color
+  - 栗色
+- - '12'
+  - gray
+  - グレー
+- - '13'
+  - black
+  - ブラック
+- - '14'
+  - cobalt blue
+  - コバルトブルー
+- - '15'
+  - dark blue
+  - ネイビー
+- - '16'
+  - salmon pink
+  - サーモンピンク
+- - '17'
+  - white
+  - ホワイト
+- - '18'
+  - dark green
+  - ダークグリーン
+- - '19'
+  - dark gray
+  - ダークグレー
+- - '20'
+  - turquoise blue
+  - ターコイズブルー
+- - '21'
+  - brown
+  - ブラウン
+- - '22'
+  - pink
+  - ピンク
+- - '23'
+  - beige
+  - ベージュ
+- - '24'
+  - light blue
+  - 水色
+- - '25'
+  - green
+  - グリーン
+- - '26'
+  - purple
+  - パープル
+- - '27'
+  - bright yellow
+  - やまぶき色
+- - '28'
+  - wine red
+  - ワインレッド
+- - '29'
+  - iron blue
+  - アイアンブルー
+- - '30'
+  - ivy green
+  - アイビーグリーン
+- - '31'
+  - ivory
+  - アイボリー
+- - '32'
+  - ash grey
+  - アッシュグレー
+- - '33'
+  - apple green
+  - アップルグリーン
+- - '34'
+  - apricot
+  - アプリコット
+- - '35'
+  - amber
+  - アンバー
+- - '36'
+  - yellow ocher
+  - イエローオーカー
+- - '37'
+  - wistaria
+  - ウイスタリア
+- - '38'
+  - ultramarine blue
+  - ウルトラマリンブルー
+- - '39'
+  - orchid
+  - オーキッド
+- - '40'
+  - old rose
+  - オールドローズ
+- - '41'
+  - olive
+  - オリーブ
+- - '42'
+  - olive green
+  - オリーブグリーン
+- - '43'
+  - oriental blue
+  - オリエンタルブルー
+- - '44'
+  - khaki
+  - カーキ
+- - '45'
+  - carmine
+  - カーマイン
+- - '46'
+  - canary yellow
+  - カナリヤ
+- - '47'
+  - carrot orange
+  - キャロットオレンジ
+- - '48'
+  - cream yellow
+  - クリームイエロー
+- - '49'
+  - chrome yellow
+  - クロムイエロー
+- - '50'
+  - grass green
+  - グラスグリーン
+- - '51'
+  - coral red
+  - コーラルレッド
+- - '52'
+  - cococa brown
+  - ココアブラウン
+- - '53'
+  - cochineal red
+  - コチニールレッド
+- - '54'
+  - cobalt green
+  - コバルトグリーン
+- - '55'
+  - cork
+  - コルク
+- - '56'
+  - golden yellow
+  - ゴールデンイエロー
+- - '57'
+  - saxe blue
+  - サックスブルー
+- - '58'
+  - sea green
+  - シーグリーン
+- - '59'
+  - cyan
+  - シアン
+- - '60'
+  - shell pink
+  - シェルピンク
+- - '61'
+  - signal red
+  - シグナルレッド
+- - '62'
+  - chatreuse green
+  - シャトルーズグリーン
+- - '63'
+  - silver gray
+  - シルバーグレイ
+- - '64'
+  - jaune brillant
+  - ジョンブリアン
+- - '65'
+  - scarlet
+  - スカーレット
+- - '66'
+  - sky gray
+  - スカイグレイ
+- - '67'
+  - sky blue
+  - スカイブルー
+- - '68'
+  - steel gray
+  - スチールグレイ
+- - '69'
+  - strawberry
+  - ストローベリー
+- - '70'
+  - snow white
+  - スノーホワイト
+- - '71'
+  - slate gray
+  - スレートグレイ
+- - '72'
+  - sepia
+  - セピア
+- - '73'
+  - cerulean blue
+  - セルリアンブルー
+- - '74'
+  - tan
+  - タン
+- - '75'
+  - cherry pink
+  - チェリーピンク
+- - '76'
+  - chinese red
+  - チャイニーズレッド
+- - '77'
+  - charcoal gray
+  - チャコールグレイ
+- - '78'
+  - chocolate
+  - チョコレート
+- - '79'
+  - terracotta
+  - テラコッタ
+- - '80'
+  - tomato red
+  - トマトレッド
+- - '81'
+  - ivory
+  - アイボリー
+- - '82'
+  - acid color
+  - アシッドカラー
+- - '83'
+  - ash-gray
+  - アッシュグレー
+- - '84'
+  - apple green
+  - アップルグリーン
+- - '85'
+  - earth color
+  - アースカラー
+- - '86'
+  - indigo
+  - インディゴ
+- - '87'
+  - Yves Klein Blue
+  - イヴ・クライン・ブルー
+- - '88'
+  - ecru
+  - エクリュ
+- - '89'
+  - off-white
+  - オフホワイト
+- - '90'
+  - khaki
+  - カーキ
+- - '91'
+  - gunmetal
+  - ガンメタル
+- - '92'
+  - graphite
+  - グラファイト
+- - '93'
+  - cognac
+  - コニャック
+- - '94'
+  - coral
+  - コーラル
+- - '95'
+  - saffron yellow
+  - サフラン・イエロー
+- - '96'
+  - Sand Color
+  - サンドカラー
+- - '97'
+  - sand beige
+  - サンドベージュ
+- - '98'
+  - salmon pink
+  - サーモン・ピンク
+- - '99'
+  - jade-green
+  - ジェイドグリーン
+- - '100'
+  - snow white
+  - スノーホワイト
+- - '101'
+  - sage green
+  - セージグリーン
+- - '102'
+  - tangerine
+  - タンジェリン
+- - '103'
+  - turquoise
+  - ターコイズ
+- - '104'
+  - dull tone
+  - ダルトーン
+- - '105'
+  - charcoal gray
+  - チャコールグレー
+- - '106'
+  - Two Tone
+  - ツートーン
+- - '107'
+  - terra cotta
+  - テラコッタ
+- - '108'
+  - tricolour color
+  - トリコロールカラー
+- - '109'
+  - taupe
+  - トープ
+- - '110'
+  - nude color
+  - ヌードカラー
+- - '111'
+  - navy
+  - ネイビー
+- - '112'
+  - bi-color
+  - バイカラー
+- - '113'
+  - pastel color
+  - パステルカラー
+- - '114'
+  - forest-green
+  - フォレストグリーン
+- - '115'
+  - fuchsia pink
+  - フューシャピンク
+- - '116'
+  - pale tone
+  - ペールトーン
+- - '117'
+  - bottle green
+  - ボトルグリーン
+- - '118'
+  - Bordeaux
+  - ボルドー
+- - '119'
+  - post-it yellow
+  - ポスト・イット・イエロー
+- - '120'
+  - mustard yellow
+  - マスタードイエロー
+- - '121'
+  - multi-color
+  - マルチカラー
+- - '122'
+  - mid night blue
+  - ミッドナイトブルー
+- - '123'
+  - monochrome
+  - モノクローム
+- - '124'
+  - mono tone
+  - モノトーン
+- - '125'
+  - mauve
+  - モーブ
+- - '126'
+  - lilac
+  - ライラック
+- - '127'
+  - rose pink
+  - ローズピンク
+- - '128'
+  - Vivid
+  - ヴィヴィッド
+- - '129'
+  - Aran pattern
+  - アラン模様
+- - '130'
+  - Argyle
+  - アーガイル
+- - '131'
+  - window pane
+  - ウィンドーペーン
+- - '132'
+  - Kanoko
+  - 鹿の子
+- - '133'
+  - Gingham Check
+  - ギンガムチェック
+- - '134'
+  - glen check
+  - グレンチェック
+- - '135'
+  - stripe
+  - ストライプ
+- - '136'
+  - tattersall
+  - タッタソール
+- - '137'
+  - tartan check
+  - タータンチェック
+- - '138'
+  - chalk stripe
+  - チョークストライプ
+- - '139'
+  - Nordic
+  - ノルディック柄
+- - '140'
+  - house check
+  - ハウスチェック
+- - '141'
+  - fair isle
+  - フェアアイル柄
+- - '142'
+  - Prince of Wales
+  - プリンス オブ ウェールズ
+- - '143'
+  - paisley
+  - ペイズリー
+- - '144'
+  - monogram
+  - モノグラム
+- - '145'
+  - Liberty print
+  - リバティプリント
+- - '146'
+  - leopard print
+  - 豹柄
+- - '147'
+  - zebra print
+  - ゼブラ柄
+- - '1000'
+  - other
+  - その他
+- - '1001'
+  - pearl
+- - '1002'
+  - havana
+- - '1003'
+  - gold
+- - '1004'
+  - orion marble
+- - '1005'
+  - leopard
+- - '1006'
+  - rose gold
+- - '1007'
+  - rose
+- - '1008'
+  - wine
+- - '1009'
+  - heroine chic
+- - '1010'
+  - nude

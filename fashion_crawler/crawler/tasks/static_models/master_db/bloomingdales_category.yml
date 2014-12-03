@@ -1,0 +1,170 @@
+mens/coats-jackets:
+  - 197
+mens/denim:
+  - 178
+mens/dress-shirts:
+  - 170
+mens/pants:
+  - 178
+mens/polos:
+  - 168
+mens/shorts-swim:
+  - 188
+mens/sport-shirts:
+  - 170
+mens/suits-sport-coats:
+  - 210
+mens/sweaters:
+  - 173
+mens/tees-sweatshirts:
+  - 166
+mens/ties:
+  - 249
+mens/underwear-loungewear-socks:
+  - 256
+mens/boots:
+  - 215
+mens/dress-shoes:
+  - 214
+mens/loafers-drivers:
+  - 216
+mens/oxfords:
+  - 218
+mens/sandals:
+  - 218
+mens/sneakers:
+  - 213
+mens/extended-sizes:
+  - 214
+mens/bags-briefcases:
+  - 224
+mens/belts:
+  - 247
+mens/cufflinks-jewelry:
+  - 250
+mens/hats-gloves-scarves:
+  - 240
+mens/sunglasses:
+  - 237
+mens/tech-accessories-cases:
+  - 234
+mens/wallets:
+  - 233
+mens/watches:
+  - 231
+fine-jewelry:
+  - 97
+jewelry-accessories/bracelets:
+  - 93
+jewelry-accessories/earrings:
+  - 91
+jewelry-accessories/necklaces:
+  - 90
+jewelry-accessories/rings:
+  - 92
+jewelry-accessories/all-jewelry:
+  - 97
+jewelry-accessories/opticals-readers:
+  - 239
+jewelry-accessories/all-sunglasses:
+  - 100
+jewelry-accessories/belts:
+  - 109
+jewelry-accessories/scarves-hats-gloves:
+  - 105
+jewelry-accessories/tech-accessories-cases:
+  - 111
+jewelry-accessories/tights-socks-hosiery:
+  - 114
+jewelry-accessories/all-accessories:
+  - 97
+shoes/boots:
+  - 76
+shoes/booties:
+  - 69
+shoes/comfort:
+  - 58
+shoes/flats:
+  - 64
+shoes/party-evening:
+  - 62
+shoes/pumps:
+  - 60
+shoes/rain-boots-cold-weather:
+  - 68
+shoes/sandals:
+  - 58
+shoes/sneakers:
+  - 59
+shoes/wedges-espadrilles:
+  - 58
+shoes/all-shoes:
+  - 67
+kids/newborn-0-9-months:
+  - 287
+kids/infant-girl-0-24-months:
+  - 287
+kids/infant-boy-0-24-months:
+  - 287
+kids/bath-diapering:
+  - 330
+kids/bedding-decor:
+  - 330
+kids/feeding:
+  - 330
+kids/gear:
+  - 327
+kids/gifts:
+  - 328
+kids/toys:
+  - 328
+kids/girls-2-6x:
+  - 312
+kids/girls-7-16:
+  - 312
+kids/boys-2-7:
+  - 293
+kids/boys-8-20:
+  - 293
+kids/accessories:
+  - 330
+kids/bedding:
+  - 330
+kids/shoes:
+  - 290
+kids/special-occasion:
+  - 287
+kids/swim-shop:
+  - 292
+kids/toys:
+  - 328
+womens-apparel/blazers-jackets:
+  - 49
+womens-apparel/coats:
+  - 40
+womens-apparel/denim:
+  - 17
+womens-apparel/dresses:
+  - 14
+womens-apparel/jumpsuits-rompers:
+  - 14
+womens-apparel/lingerie-bras-shapewear:
+  - 124
+womens-apparel/lounge-active:
+  - 157
+womens-apparel/pants-leggings:
+  - 17
+womens-apparel/skirts-shorts:
+  - 16
+womens-apparel/sleepwear-robes:
+  - 128
+womens-apparel/sweaters:
+  - 6
+womens-apparel/swimsuits-cover-ups:
+  - 132
+womens-apparel/tights-socks-hosiery:
+  - 114
+womens-apparel/tops-tees:
+  - 2
+womens-apparel/wear-to-work:
+  - 154

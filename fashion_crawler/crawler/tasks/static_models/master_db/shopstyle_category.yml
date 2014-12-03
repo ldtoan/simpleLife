@@ -1,0 +1,842 @@
+belts:
+  - 109
+gifts:
+  - 120
+gift-cards:
+  - 120
+gloves:
+  - 108
+hats:
+  - 103
+scarves:
+  - 105
+womens-eyeglasses:
+  - 101
+sunglasses:
+  - 100
+key-chains:
+  - 112
+womens-tech-accessories:
+  - 111
+womens-umbrellas:
+  - 110
+athletic-jackets:
+  - 160
+athletic-pants:
+  - 161
+athletic-shorts:
+  - 162
+athletic-skirts:
+  - 163
+sports-bras-and-underwear:
+  - 164
+athletic-tops:
+  - 158
+bridal-gowns:
+  - 135
+bridal-veils:
+  - 135
+bridal-bags:
+  - 135
+bridal-jewelry:
+  - 135
+bridal-lingerie:
+  - 135
+bridal-shoes:
+  - 135
+bridal-bridesmaid-dresses:
+  - 135
+bridesmaid-bags:
+  - 135
+bridesmaid-jewelry:
+  - 135
+bridal-mother-dresses:
+  - 135
+bridal-mother-bags:
+  - 135
+bridal-mother-jewelry:
+  - 135
+bootcut-jeans:
+  - 20
+classic-jeans:
+  - 21
+cropped-jeans:
+  - 22
+distressed-jeans:
+  - 24
+flare-jeans:
+  - 25
+relaxed-jeans:
+  - 19
+skinny-jeans:
+  - 26
+straight-leg-jeans:
+  - 23
+stretch-jeans:
+  - 27
+wedding-dresses:
+  - 135
+bridesmaid-dresses:
+  - 147
+mother-bride-dresses:
+  - 135
+cocktail-dresses:
+  - 143
+day-dresses:
+  - 144
+evening-dresses:
+  - 147
+bras:
+  - 124
+camisoles:
+  - 122
+chemises:
+  - 125
+gowns:
+  - 127
+hosiery:
+  - 114
+pajamas:
+  - 126
+panties:
+  - 121
+robes:
+  - 128
+socks:
+  - 116
+shapewear:
+  - 131
+slippers:
+  - 67
+thongs:
+  - 121
+blazers:
+  - 48
+casual-jackets:
+  - 49
+vests:
+  - 53
+leather-jackets:
+  - 50
+diamond-bracelets:
+  - 93
+diamond-earrings:
+  - 91
+diamond-necklaces:
+  - 90
+diamond-rings:
+  - 92
+bracelets:
+  - 93
+charms:
+  - 120
+earrings:
+  - 91
+necklaces:
+  - 90
+brooches-and-pins:
+  - 119
+rings:
+  - 92
+watches:
+  - 98
+maternity-jeans:
+  - 314
+maternity-dresses:
+  - 315
+maternity-intimates:
+  - 320
+maternity-jackets:
+  - 316
+maternity-outerwear:
+  - 317
+maternity-pants:
+  - 319
+maternity-shorts:
+  - 319
+maternity-skirts:
+  - 318
+maternity-sweaters:
+  - 321
+maternity-swimsuits:
+  - 323
+maternity-tops:
+  - 313
+coats:
+  - 40
+fur-and-shearling-coats:
+  - 42
+leather-and-suede-coats:
+  - 40
+puffer-coats:
+  - 54
+raincoats-and-trenchcoats:
+  - 43
+wool-coats:
+  - 44
+casual-pants:
+  - 29
+cropped-pants:
+  - 30
+dress-pants:
+  - 31
+leggings:
+  - 113
+skinny-pants:
+  - 32
+wide-leg-pants:
+  - 33
+petite-jeans:
+  - 19
+petite-dresses:
+  - 148
+petite-intimates:
+  - 125
+petite-jackets:
+  - 47
+petite-outerwear:
+  - 40
+petite-pants:
+  - 17
+petite-shorts:
+  - 18
+petite-skirts:
+  - 15
+petite-sweatshirts:
+  - 14
+petite-sweaters:
+  - 6
+petite-swimsuits:
+  - 132
+petite-tops:
+  - 14
+mini-skirts:
+  - 16
+mid-length-skirts:
+  - 15
+long-skirts:
+  - 15
+cardigan-sweaters:
+  - 6
+cashmere-sweaters:
+  - 6
+crewneck-sweaters:
+  - 6
+turleneck-sweaters:
+  - 6
+v-neck-sweaters:
+  - 6
+one-piece-swimsuits:
+  - 132
+two-piece-swimsuits:
+  - 132
+swimsuit-coverups:
+  - 132
+teen-girls-jeans:
+  - 19
+teen-girls-dresses:
+  - 36
+teen-girls-intimates:
+  - 124
+teen-girls-jackets:
+  - 47
+teen-girls-outerwear:
+  - 40
+teen-girls-pants:
+  - 17
+teen-girls-shorts:
+  - 18
+teen-girls-skirts:
+  - 15
+teen-girls-sweatshirts:
+  - 8
+teen-girls-sweaters:
+  - 6
+teen-girls-swimsuits:
+  - 132
+teen-girls-tops:
+  - 2
+button-front-tops:
+  - 10
+camisole-tops:
+  - 123
+cashmere-tops:
+  - 14
+halter-tops:
+  - 4
+longsleeve-tops:
+  - 3
+shortsleeve-tops:
+  - 10
+sleeveless-tops:
+  - 10
+tank-tops:
+  - 1
+tees-and-tshirts:
+  - 2
+tunic-tops:
+  - 5
+polo-tops:
+  - 11
+bath-shower-gel:
+  - 120
+bubble-bath-bath-oil:
+  - 120
+body-cleansers-soap:
+  - 120
+deodorant:
+  - 120
+shave-cream:
+  - 120
+body-lotions-creams:
+  - 120
+body-oils:
+  - 120
+all-over-body-treatments:
+  - 120
+body-scrubs-exfoliants:
+  - 120
+cellulite-treatments:
+  - 120
+neck-decollete:
+  - 120
+hand-treatments:
+  - 120
+foot-leg-treatments:
+  - 120
+tooth-whiteners:
+  - 120
+toothpaste:
+  - 120
+bath-body-gift-sets:
+  - 120
+hair-conditioner-lightweight:
+  - 120
+hair-conditioner-intensive:
+  - 120
+blow-dryers-irons:
+  - 120
+hair-styling-tools-brushes-combs:
+  - 120
+hair-styling-tools-styling-accessories:
+  - 120
+hair-scalp-treatments:
+  - 120
+hair-shampoo-normal:
+  - 120
+hair-shampoo-dry:
+  - 120
+hair-shampoo-damaged-chemically-treated:
+  - 120
+hair-shampoo-oily-dandruff:
+  - 120
+hair-styling-products:
+  - 120
+body-shimmer-glitter:
+  - 120
+body-makeup:
+  - 120
+eye-shadow:
+  - 120
+eyes-shimmer-glitter:
+  - 120
+eyeliner:
+  - 120
+mascara:
+  - 120
+false-eyelashes:
+  - 120
+eyebrow-enhancers:
+  - 120
+eyes-concealer-shadow-base:
+  - 120
+eye-makeup-remover:
+  - 120
+blush:
+  - 120
+face-primer:
+  - 120
+face-concealer:
+  - 120
+face-liquid-foundation:
+  - 120
+face-cream-foundation:
+  - 120
+face-powder-foundation:
+  - 120
+face-loose-powder:
+  - 120
+face-pressed-powder:
+  - 120
+face-shine-control-blotting-papers:
+  - 120
+face-bronzer:
+  - 120
+face-luminizer:
+  - 120
+face-shimmer-glitter:
+  - 120
+lip-gloss:
+  - 120
+lip-plumpers:
+  - 120
+lipstick:
+  - 120
+lip-stain:
+  - 120
+lip-pencils:
+  - 120
+lip-treatments:
+  - 120
+nail-treatments:
+  - 120
+nail-polish:
+  - 120
+makeup-sets:
+  - 120
+eyes-fine-lines-wrinkles:
+  - 120
+eyes-dryness:
+  - 120
+eyes-dark-circles:
+  - 120
+eyes-puffiness:
+  - 120
+eye-treatments:
+  - 120
+face-makeup-removers:
+  - 120
+face-cleansers:
+  - 120
+face-toners:
+  - 120
+face-moisturizers:
+  - 120
+face-tinted-moisturizers:
+  - 120
+lip-balm-treatments:
+  - 120
+face-anti-aging:
+  - 120
+face-oil-blemish-control:
+  - 120
+face-scrubs-exfoliants:
+  - 120
+face-masks:
+  - 120
+face-skin-revitalizers:
+  - 120
+face-skin-lighteners:
+  - 120
+face-night-treatments:
+  - 120
+spf-15-below:
+  - 120
+spf-15-above:
+  - 120
+sun-water-resistant:
+  - 120
+after-sun:
+  - 120
+sun-bronzers-self-tanners:
+  - 120
+makeup-travel-bags:
+  - 120
+bags-cases-brush-bags:
+  - 120
+bags-cases-train-cases:
+  - 120
+bags-cases-refillables:
+  - 120
+brushes-applicators-face:
+  - 120
+brushes-applicators-eyes:
+  - 120
+brushes-applicators-lips:
+  - 120
+brushes-applicators-sets:
+  - 120
+brushes-applicators-cleaners:
+  - 120
+beauty-tools-eyelash-curler:
+  - 120
+beauty-tools-foot-tools:
+  - 120
+beauty-tools-hair-removal:
+  - 120
+beauty-tools-nail-tools:
+  - 120
+beauty-tools-mirrors:
+  - 120
+beauty-tools-scissors-shears:
+  - 120
+beauty-tools-sharpeners:
+  - 120
+beauty-tools-skincare-tools:
+  - 120
+beauty-tools-tweezers-brow:
+  - 120
+shorts:
+  - 18
+womens-suits:
+  - 154
+sweatshirts:
+  - 9
+backpacks:
+  - 84
+clutches:
+  - 81
+evening-handbags:
+  - 82
+hobo-bags:
+  - 78
+satchels:
+  - 78
+shoulder-bags:
+  - 82
+tote-bags:
+  - 77
+wallets:
+  - 86
+shoes-athletic:
+  - 165
+boots:
+  - 69
+evening-shoes:
+  - 60
+flats:
+  - 60
+mules-and-clogs:
+  - 60
+platforms:
+  - 60
+pumps:
+  - 60
+sandals:
+  - 58
+womens-sneakers:
+  - 59
+wedges:
+  - 67
+perfume:
+  - 117
+hair-accessories:
+  - 120
+mens-belts:
+  - 247
+mens-eyeglasses:
+  - 238
+mens-sunglasses:
+  - 237
+mens-gloves-and-scarves:
+  - 244
+mens-hats:
+  - 240
+mens-tech-accessories:
+  - 251
+mens-umbrellas:
+  - 232
+mens-wallets:
+  - 233
+mens-athletic-jackets:
+  - 266
+mens-athletic-pants:
+  - 267
+mens-athletic-shirts:
+  - 264
+mens-athletic-shorts:
+  - 268
+mens-big-and-tall-coats-and-jackets:
+  - 209
+mens-big-and-tall-jeans:
+  - 187
+mens-big-and-tall-pants:
+  - 178
+mens-big-and-tall-shirts:
+  - 170
+mens-big-and-tall-shorts:
+  - 188
+mens-big-and-tall-blazers:
+  - 196
+mens-big-and-tall-suits:
+  - 263
+mens-big-and-tall-sweaters:
+  - 173
+mens-big-and-tall-underwear-and-socks:
+  - 256
+mens-bootcut-jeans:
+  - 179
+mens-distressed-jeans:
+  - 181
+mens-loose-jeans:
+  - 186
+mens-low-rise-jeans:
+  - 185
+mens-relaxed-jeans:
+  - 186
+mens-slim-jeans:
+  - 182
+mens-straight-leg-jeans:
+  - 180
+mens-denim-jackets:
+  - 199
+mens-jackets:
+  - 210
+mens-leather-and-suede-coats:
+  - 209
+mens-overcoats-and-trenchcoats:
+  - 203
+mens-wool-coats:
+  - 209
+mens-cargo-pants:
+  - 178
+mens-casual-pants:
+  - 178
+mens-chinos-and-khakis:
+  - 178
+mens-dress-pants:
+  - 178
+mens-dress-shirts:
+  - 176
+mens-longsleeve-shirts:
+  - 167
+mens-shortsleeve-shirts:
+  - 170
+mens-polo-shirts:
+  - 168
+mens-tees-and-tshirts:
+  - 166
+mens-pajamas:
+  - 257
+mens-robes:
+  - 257
+mens-slippers:
+  - 218
+mens-cardigan-sweaters:
+  - 174
+mens-cashmere-sweaters:
+  - 174
+mens-crewneck-sweaters:
+  - 173
+mens-half-zip-sweaters:
+  - 174
+mens-turtleneck-sweaters:
+  - 174
+mens-v-neck-sweaters:
+  - 173
+mens-vests:
+  - 207
+teen-guys-jeans:
+  - 187
+teen-guys-outerwear:
+  - 211
+teen-guys-pants:
+  - 178
+teen-guys-shirts:
+  - 170
+teen-guys-shorts:
+  - 188
+teen-guys-blazers:
+  - 210
+teen-guys-suits:
+  - 263
+teen-guys-sweaters:
+  - 173
+teen-guys-swimsuits:
+  - 260
+teen-guys-underwear-and-socks:
+  - 259
+mens-briefs:
+  - 255
+mens-boxers:
+  - 256
+mens-socks:
+  - 246
+mens-tee-shirts:
+  - 166
+mens-cuff-links:
+  - 230
+mens-jewelry:
+  - 230
+mens-watches:
+  - 231
+mens-bath-shower-gel:
+  - 252
+mens-body-moisturizers:
+  - 252
+mens-cleansing-bars:
+  - 252
+mens-deodorants:
+  - 252
+mens-hands-feet-care:
+  - 252
+mens-tooth-care:
+  - 252
+mens-hair-conditioners:
+  - 252
+mens-hair-styling-tools:
+  - 252
+mens-hair-treatments:
+  - 252
+mens-hair-shampoos:
+  - 252
+mens-hair-styling-products:
+  - 252
+mens-shaving-products:
+  - 252
+mens-post-shave:
+  - 252
+mens-shaving-tools:
+  - 252
+mens-messenger-bags:
+  - 219
+mens-tote-bags:
+  - 221
+mens-business-bags:
+  - 224
+mens-backpacks:
+  - 223
+mens-sports-bags:
+  - 226
+mens-shoes-athletic:
+  - 218
+mens-boots:
+  - 215
+mens-sandals:
+  - 212
+mens-lace-up-shoes:
+  - 214
+mens-slip-ons-shoes:
+  - 218
+mens-sneakers:
+  - 213
+mens-fragrances:
+  - 262
+mens-skin-care:
+  - 252
+mens-sweatshirts:
+  - 172
+mens-swimsuits:
+  - 260
+mens-ties:
+  - 249
+mens-blazers-and-sport-coats:
+  - 210
+mens-suits:
+  - 263
+mens-shorts:
+  - 188
+activity-centers-jumpers:
+  - 252
+boys-bags:
+  - 293
+boys-watches:
+  - 293
+boys-bodysuits:
+  - 293
+boys-jeans:
+  - 285
+boys-matching-sets:
+  - 287
+boys-one-piece:
+  - 293
+boys-outerwear:
+  - 286
+boys-pants:
+  - 283
+boys-shoes:
+  - 290
+boys-shorts:
+  - 283
+boys-nightgowns:
+  - 291
+boys-pajamas:
+  - 291
+boys-sleep-sacks:
+  - 291
+boys-sweaters:
+  - 281
+boys-sweatshirts:
+  - 282
+boys-swimsuits:
+  - 292
+boys-polos:
+  - 279
+boys-shirts:
+  - 280
+boys-tees-and-tshirts:
+  - 277
+boys-underwear:
+  - 288
+girls-bags:
+  - 312
+girls-jewelry:
+  - 312
+girls-watches:
+  - 312
+girls-bodysuits:
+  - 312
+girls-dresses:
+  - 307
+girls-jeans:
+  - 306
+girls-matching-sets:
+  - 304
+girls-one-piece:
+  - 312
+girls-outerwear:
+  - 302
+girls-pants:
+  - 300
+girls-shoes:
+  - 308
+girls-shorts:
+  - 300
+girls-skirts:
+  - 305
+girls-nightgowns:
+  - 310
+girls-pajamas:
+  - 310
+girls-sleep-sacks:
+  - 310
+girls-sweaters:
+  - 299
+girls-sweatshirts:
+  - 302
+girls-swimsuits:
+  - 311
+girls-shirts:
+  - 296
+girls-polos:
+  - 295
+girls-tees-and-tshirts:
+  - 294
+girls-underwear:
+  - 309
+kids-bath-and-body:
+  - 330
+kids-bath-accessories:
+  - 330
+kids-baby-robes:
+  - 293
+kids-baby-towels:
+  - 330
+kids-bath-toys:
+  - 330
+bassinets-and-cradles:
+  - 330
+kids-bedding-blankets-and-quilts:
+  - 330
+changing-tables:
+  - 330
+cribs:
+  - 330
+kids-rockers:
+  - 330
+mens-espadrilles:
+  - 218
+womens-espadrilles:
+  - 66
+baby-carriers:
+  - 327

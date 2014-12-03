@@ -1,0 +1,390 @@
+mens/footwear/boots:
+  - 215
+mens/footwear/sandals:
+  - 212
+mens/footwear/shoes:
+  - 218
+mens/footwear/sneakers:
+  - 213
+womens/accessories/belts:
+  - 109
+womens/accessories/gloves:
+  - 108
+womens/accessories/hair-accessories:
+  - 104
+womens/accessories/keychains:
+  - 112
+womens/accessories/laptop-tablet-cases:
+  - 120
+womens/accessories/media-cases:
+  - 120
+womens/accessories/office:
+  - 120
+womens/accessories/scarves:
+  - 105
+womens/accessories/sunglasses:
+  - 100
+womens/accessories/wallets:
+  - 86
+womens/accessories/watches:
+  - 98
+mens/accessories/belts:
+  - 247
+mens/accessories/keychains:
+  - 112
+mens/accessories/laces:
+  - 218
+mens/accessories/laptop-tablet-cases:
+  - 252
+mens/accessories/media-cases:
+  - 252
+mens/accessories/office:
+  - 252
+mens/accessories/scarves:
+  - 243
+mens/accessories/sunglasses:
+  - 237
+mens/accessories/wallets:
+  - 233
+mens/accessories/watches:
+  - 231
+mens/clothing/denim/relaxed:
+  - 194
+mens/clothing/denim/skinny:
+  - 182
+mens/clothing/denim/slim-straight:
+  - 180
+mens/clothing/knit-tops/crewnecks:
+  - 166
+mens/clothing/knit-tops/henleys:
+  - 169
+mens/clothing/knit-tops/polos:
+  - 168
+mens/clothing/knit-tops/vnecks:
+  - 166
+mens/clothing/outerwear/blazers:
+  - 200
+mens/clothing/outerwear/jackets:
+  - 197
+mens/clothing/outerwear/leather-jackets:
+  - 198
+mens/clothing/outerwear/track-jackets:
+  - 197
+mens/clothing/outerwear/windbreakers:
+  - 210
+mens/clothing/outerwear/winter-coats:
+  - 197
+mens/clothing/outerwear/winter-vests:
+  - 207
+mens/clothing/pants/cargo:
+  - 189
+mens/clothing/pants/hammer-pants:
+  - 194
+mens/clothing/pants/joggers:
+  - 194
+mens/clothing/pants/relaxed:
+  - 190
+mens/clothing/pants/skinny:
+  - 194
+mens/clothing/pants/slim-straight:
+  - 194
+mens/clothing/pants/slouch:
+  - 194
+mens/clothing/pants/sweatpants:
+  - 193
+mens/clothing/shorts/boardshorts:
+  - 260
+mens/clothing/shorts/cargo:
+  - 188
+mens/clothing/shorts/denim:
+  - 188
+mens/clothing/shorts/sweatshorts:
+  - 188
+mens/clothing/shorts/twills:
+  - 188
+mens/clothing/sweaters/cardigans:
+  - 174
+mens/clothing/sweaters/crewnecks:
+  - 173
+mens/clothing/sweaters/henleys:
+  - 167
+mens/clothing/sweaters/hoodies:
+  - 171
+mens/clothing/sweaters/shawlnecks:
+  - 173
+mens/clothing/sweaters/vnecks:
+  - 173
+mens/clothing/tshirts/baseball-tshirts:
+  - 166
+mens/clothing/tshirts/basic-tshirts:
+  - 166
+mens/clothing/tshirts/long-sleeve-graphic-tshirts:
+  - 167
+mens/clothing/tshirts/short-sleeve-graphic-tshirts:
+  - 166
+mens/clothing/tshirts/striped-pattern-tshirts:
+  - 166
+mens/clothing/shirts/hooded-buttondown-shirts:
+  - 170
+mens/clothing/shirts/long-sleeve-buttondown-shirts:
+  - 170
+mens/clothing/shirts/short-sleeve-buttondown-shirts:
+  - 170
+mens/clothing/socks-underwear/boxers:
+  - 256
+mens/clothing/socks-underwear/socks:
+  - 246
+mens/clothing/tank-tops/basic-tank-tops:
+  - 175
+mens/clothing/tank-tops/graphic-tank-tops:
+  - 175
+mens/clothing/tank-tops/striped-pattern-tank-tops:
+  - 175
+mens/clothing/vests/denim-vests:
+  - 207
+mens/clothing/vests/dress-vests:
+  - 207
+mens/clothing/vests/utility-vests:
+  - 207
+mens/clothing/vests/winter-vests:
+  - 207
+womens/clothing/jumpers/pants:
+  - 38
+womens/clothing/jumpers/shorts:
+  - 38
+womens/clothing/dresses/maxi:
+  - 146
+womens/clothing/dresses/mid-length:
+  - 148
+womens/clothing/dresses/mini:
+  - 148
+womens/clothing/dresses/one-shoulder:
+  - 148
+womens/clothing/dresses/party:
+  - 148
+womens/clothing/dresses/strapless:
+  - 148
+womens/clothing/dresses/tshirts:
+  - 4
+womens/clothing/denim/high-waisted:
+  - 28
+womens/clothing/denim/skinny:
+  - 26
+womens/clothing/denim/wideleg-:
+  - 28
+womens/clothing/legwear/knee-highs:
+  - 116
+womens/clothing/legwear/socks:
+  - 116
+womens/clothing/legwear/thigh-highs:
+  - 114
+womens/clothing/legwear/tights:
+  - 114
+womens/clothing/outerwear/jackets:
+  - 47
+womens/clothing/outerwear/Leather-Jackets:
+  - 50
+womens/clothing/outerwear/track-jackets:
+  - 160
+womens/clothing/pants/active:
+  - 29
+womens/clothing/pants/Cargo:
+  - 29
+womens/clothing/pants/cropped:
+  - 30
+womens/clothing/pants/harem:
+  - 35
+womens/clothing/pants/high-waisted:
+  - 35
+womens/clothing/pants/leggings:
+  - 113
+womens/clothing/pants/skinny:
+  - 32
+womens/clothing/pants/sweatpants:
+  - 34
+womens/clothing/pants/wideleg-:
+  - 35
+mens/clothing/sweatshirts/cardigans:
+  - 174
+mens/clothing/sweatshirts/crewnecks:
+  - 172
+mens/clothing/sweatshirts/henleys:
+  - 177
+mens/clothing/sweatshirts/jackets:
+  - 197
+mens/clothing/sweatshirts/pullover-hoodies:
+  - 171
+mens/clothing/sweatshirts/shawlnecks:
+  - 177
+mens/clothing/sweatshirts/zip-up-hoodies:
+  - 171
+womens/clothing/sweaters/cardigans:
+  - 7
+womens/clothing/sweaters/crewneck:
+  - 6
+womens/clothing/sweaters/cropped:
+  - 6
+womens/clothing/sweaters/ponchos-capes:
+  - 56
+womens/clothing/sweaters/vneck:
+  - 6
+womens/clothing/sweatshirts/cardigans:
+  - 7
+womens/clothing/sweatshirts/crewneck:
+  - 9
+womens/clothing/sweatshirts/cropped:
+  - 14
+womens/clothing/sweatshirts/pullover-hoodies:
+  - 8
+womens/clothing/sweatshirts/zip-hoodies:
+  - 8
+womens/clothing/shorts/activewear:
+  - 18
+womens/clothing/shorts/bermuda:
+  - 18
+womens/clothing/shorts/boyfriend:
+  - 18
+womens/clothing/shorts/cut-off:
+  - 18
+womens/clothing/shorts/denim:
+  - 18
+womens/clothing/shorts/dress:
+  - 18
+womens/clothing/shorts/lace:
+  - 18
+womens/clothing/shorts/leather:
+  - 15
+womens/clothing/skirts/maxi:
+  - 15
+womens/clothing/skirts/mid-lenth:
+  - 15
+womens/clothing/skirts/mini:
+  - 16
+womens/clothing/tops/bodysuit:
+  - 132
+womens/clothing/tops/long-sleeves:
+  - 3
+womens/clothing/tops/short-sleeves:
+  - 2
+womens/clothing/tops/sleeveless:
+  - 1
+womens/clothing/tops/tunics:
+  - 5
+womens/clothing/swimwear/bikinis:
+  - 132
+womens/clothing/swimwear/cover-ups:
+  - 132
+womens/clothing/swimwear/one-piece:
+  - 132
+womens/clothing/tshirts/basics:
+  - 2
+womens/clothing/tshirts/graphics:
+  - 2
+womens/footwear/shoes/ballerina:
+  - 64
+womens/footwear/shoes/loafers:
+  - 65
+womens/footwear/shoes/open-toe:
+  - 62
+womens/footwear/shoes/platforms:
+  - 62
+womens/footwear/shoes/pumps:
+  - 60
+womens/footwear/shoes/sandals:
+  - 58
+womens/footwear/shoes/wedges:
+  - 63
+womens/clothing/vests/denim:
+  - 53
+womens/clothing/vests/dress:
+  - 53
+womens/clothing/vests/leather:
+  - 53
+womens/clothing/vests/sweater:
+  - 53
+womens/footwear/sneakers/heeled:
+  - 59
+womens/footwear/sneakers/lace-up:
+  - 59
+womens/footwear/boots/booties:
+  - 69
+womens/footwear/boots/knee-boot:
+  - 68
+womens/footwear/boots/mid:
+  - 69
+womens/accessories/headphones/earbuds:
+  - 120
+womens/accessories/headphones/over-ear:
+  - 120
+womens/accessories/bags/backpacks:
+  - 84
+womens/accessories/bags/clutches-:
+  - 81
+womens/accessories/bags/coin-purses:
+  - 87
+womens/accessories/bags/cosmetic-bags:
+  - 118
+womens/accessories/bags/luggage:
+  - 85
+womens/accessories/bags/messenger-bags:
+  - 85
+womens/accessories/bags/shoulder-bags:
+  - 82
+womens/accessories/bags/tote-bags:
+  - 77
+womens/accessories/hats/five-panels-volleys:
+  - 103
+womens/accessories/hats/beanies:
+  - 103
+womens/accessories/hats/fitted-hats:
+  - 103
+womens/accessories/hats/snapbacks:
+  - 103
+womens/accessories/jewelry/body-jewelry:
+  - 97
+womens/accessories/jewelry/bracelets:
+  - 93
+womens/accessories/jewelry/earrings:
+  - 91
+womens/accessories/jewelry/necklaces:
+  - 90
+womens/accessories/jewelry/pins:
+  - 120
+womens/accessories/jewelry/rings:
+  - 92
+mens/accessories/headphones/earbuds:
+  - 120
+mens/accessories/headphones/over-ear:
+  - 120
+mens/accessories/bags/backpacks:
+  - 223
+mens/accessories/bags/duffle-bags:
+  - 222
+mens/accessories/bags/luggage:
+  - 226
+mens/accessories/bags/messenger-bags:
+  - 220
+mens/accessories/bags/tote-bags:
+  - 221
+mens/accessories/hats/five-panels-volleys:
+  - 240
+mens/accessories/hats/beanies:
+  - 240
+mens/accessories/hats/bucket-hats:
+  - 240
+mens/accessories/hats/dress-hats:
+  - 240
+mens/accessories/hats/fitted-hats:
+  - 240
+mens/accessories/hats/snapbacks:
+  - 240
+mens/accessories/jewelry/bracelets:
+  - 228
+mens/accessories/jewelry/earrings:
+  - 230
+mens/accessories/jewelry/necklaces:
+  - 227
+mens/accessories/jewelry/pins:
+  - 230
+mens/accessories/jewelry/rings:
+  - 229

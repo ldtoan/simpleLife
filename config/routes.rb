@@ -1,16 +1,13 @@
 Rails.application.routes.draw do
-  get 'english/index'
-
-  # get 'main/index'
+  # get 'home/index'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
-  root 'main#index'
+  # root 'home#index'
+  root to: redirect('/musics')
   resources :musics
-  resources :english
-
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
 

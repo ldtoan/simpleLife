@@ -1,0 +1,35 @@
+<select size = "5" id="ML" name="MusicList" onclick="MusicLoad(this.selectedIndex);">
+    <option value="http://mp3.zing.vn/xml/load-song/MjAxMCUyRjEyJTJGMDElMkZjJTJGMSUyRmMxMDhhNmZiMjQ5YWVkMGU1NGQyNjg4YWQ4NmZmNzVlLm1wMyU3QzI=">Bai hat thu 1</option>
+<option value="http://mp3.zing.vn/xml/load-song/MjAxNCUyRjA5JTJGMTIlMkY5JTJGMiUyRjkyNWNjZDFkNDM2YTAwZTNkMTMyZDk5ODhmNGY2ZDE4Lm1wMyU3QzI=">Bai hat thu 2</option>
+</select>
+<br>
+
+<audio id="aud" controls autoplay onended="mEnd()" onerror="mError()"></audio>
+
+<script>
+  var aud= document.getElementById('aud')
+  var ml= document.getElementById('ML')
+  var ind= 0
+  MusicLoad(ind)
+  function MusicLoad(i){
+    var src = ml.options[i].value
+    aud.setAttribute("src", src + '.ogg')
+    aud.load()
+    ind=i
+    ml.selectedIndex=i
+  }
+
+  function mEnd(){
+    ind=ind+1
+    if (ind >= ml.length) ind = 0
+     MusicLoad(ind)
+ }
+
+ function mError(){
+  if (aud.error.code==4){
+    aud.setAttribute("src",address+music[ind]+'.mp3')
+    aud.load()
+  }
+}
+//MusicLoad(0);
+</script>
